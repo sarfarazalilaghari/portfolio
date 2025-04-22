@@ -50,6 +50,9 @@
     width: 50%;
     margin-top: 0;
   }
+  .language{
+    display: none;
+  }
 }
 .hero-title {
   font-size: 2rem;
