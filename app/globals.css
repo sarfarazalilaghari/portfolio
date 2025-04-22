@@ -195,8 +195,9 @@ about-section {
   .about-section {
     background: linear-gradient(135deg, #f472b6, #fb923c);
   }
-  .language{
-    display: none;
+  .language {
+    display: none !important;
+    color: #fff !important;
   }
 }
 @media (min-width: 768px) and (max-width: 1023px) {
