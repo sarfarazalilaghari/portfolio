@@ -22,16 +22,22 @@ export const projects = [
     },
     {
         id:3,
-      title: 'Project Three',
-      description: 'Responsive design project with custom animations.',
-      image: '/images/project3.png',
+      title: 'Design To Code Projects',
+      description: 'Transformed a Figma design into a functional and visually consistent web interface, closely following design guidelines while maintaining responsiveness and attention to detail.',
+      image: '/figma1.png',
+      image2: '/figma2.png',
+      image3: '/figma3.png',
+      image4: '/figma5.png',
       link: '#'
     },
     {
         id:4,
-      title: 'Project Four',
-      description: 'A full-stack implementation with API integrations.',
-      image: '/images/project4.png',
+      title: 'Design To Code Projects',
+      description: 'Transformed a Figma design into a functional and visually consistent web interface, closely following design guidelines while maintaining responsiveness and attention to detail.',
+      image: '/figma5.png',
+      image2: '/gunit.jpg',
+      image3: '/feedbacks.jpg',
+      image4: '/secondfigma.png',
       link: '#'
     }
   ];
